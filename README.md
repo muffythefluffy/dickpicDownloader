@@ -22,3 +22,5 @@ python3 -m venv venv
 venv/bin/pip install requests tqdm
 venv/bin/python3 main.py
 ```
+
+Enjoy! ^^
