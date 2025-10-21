@@ -102,4 +102,4 @@ if failed_downloads:
     for failed in failed_downloads:
         print(failed)
 else:
-    print("\nAll dicpics downloaded successfully!")
+    print("\nAll dickpics downloaded successfully!")
